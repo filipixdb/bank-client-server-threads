@@ -1,0 +1,10 @@
+0:0:DCCBruno:8873
+1:0:DCCFilipi:10258
+2:0:DCCThalles:10958
+3:0:DCCDeise:12593
+4:0:DCCJoao:10552
+5:0:DCCAdriano:9076
+6:0:DCCValeria:11260
+7:0:DCCQuilula:11122
+8:0:DCCJonathan:11549
+9:0:DCCThome:11432

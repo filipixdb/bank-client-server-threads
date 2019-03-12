@@ -1,0 +1,10 @@
+0:1:ABruno:10549
+1:1:AFilipi:11770
+2:1:AThalles:7898
+3:1:ADeise:11438
+4:1:AJoao:10341
+5:1:AAdriano:10511
+6:1:AValeria:10462
+7:1:AQuilula:10796
+8:1:AJonathan:12110
+9:1:AThome:9372

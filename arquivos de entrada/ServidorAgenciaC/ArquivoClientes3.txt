@@ -1,0 +1,10 @@
+0:3:CBruno:10290
+1:3:CFilipi:4938
+2:3:CThalles:12903
+3:3:CDeise:10509
+4:3:CJoao:13402
+5:3:CAdriano:10233
+6:3:CValeria:9977
+7:3:CQuilula:5888
+8:3:CJonathan:10886
+9:3:CThome:5630
